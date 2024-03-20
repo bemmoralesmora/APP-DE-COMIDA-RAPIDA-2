@@ -1,0 +1,100 @@
+.menu{
+    width: 392px;
+    height: 600px;
+
+    gap: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titulo-menu{
+    width: 233px;
+    height: 36px;
+    margin-top: 50px;
+
+    font-size: 22px;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.lista{
+    width: 377px;
+    height: 108px;
+    gap: 5px;
+
+    border-radius: 4px;
+
+    display: flex;
+}
+
+.lista-img{
+    width: 108px;
+    height: 108px;
+
+    border-radius: 4px 0px 0px 0px; 
+}
+
+.texto-lista{
+    width: 261px;
+    height: 108px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.texto1{
+    width: 261px;
+    height: 60px;
+
+}
+
+.minitexto1{
+    width: 261px;
+    height: 20px;
+
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.minitexto2{
+    width: 261px;
+    height: 40px;
+
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.texto2{
+    width: 261px;
+    height: 25px;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.img-texto2{
+    width: 45px;
+    height: 25px;
+    border-radius: 4px;
+
+    background-color: rgba(3, 7, 18, 1);
+    color: white;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.numero{
+    width: 84px;
+    height: 24px;
+
+    font-size: 16px;
+    font-weight: 700;
+}
+

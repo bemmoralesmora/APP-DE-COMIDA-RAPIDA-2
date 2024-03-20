@@ -1,0 +1,111 @@
+.bebidas{
+    width: 392px;
+    height: 200px;
+
+    gap: 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.bebida{
+    width: 87px;
+    height: 36px;
+    font-size: 24px;
+    font-weight: 700;
+
+    padding: 10px;
+}
+
+.cuadrote{
+    width: 377px;
+    height: 144px;
+
+    display: flex;
+    padding: 10px;
+
+}
+
+.cuadrote-img{
+    width: 108px;
+    height: 108px;
+}
+
+.titulo-bebida{
+    width: 261px;
+    height: 200;
+
+}
+
+.cola{
+    width: 261px;
+    height: 23px;
+
+    font-size: 14px;
+    font-weight: 700;
+
+}
+
+.precio1{
+    width: 133px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+
+}
+
+.numero-cola{
+    width: 75px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+}
+
+.img-cola{
+    width: 45px;
+    height: 25px;
+    border-radius: 4px;
+
+    color: white;
+    background-color: rgba(3, 7, 18, 1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.precio2{
+    width: 261px;
+    height: 25px;
+    display: flex;
+    justify-content: space-between;
+
+    margin-top: 25px;
+}
+
+.numero-coca{
+    width: 70px;
+    height: 24px;
+    font-size: 16px;
+    font-weight: 700;
+
+    display: flex;
+    align-items: center;
+}
+
+.img-coca{
+    width: 45px;
+    height: 25px;
+    border-radius: 4px;
+
+    color: white;
+    background-color: rgba(3, 7, 18, 1);
+
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
